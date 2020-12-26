@@ -1,0 +1,87 @@
+body
+{
+    text-align: center;
+    background-color: #3d3a3a;
+    
+}
+
+.text1{
+    text-align: center; 
+    
+    background-color: black;
+    color: white;
+    width: 48.5%;
+}
+.contact_1{
+    font-size: 200px;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+#myCarousel
+{
+    background-color: #3d3a3a;
+}
+
+#myCarousel img
+{
+    height: 600px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#myCarouse2
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.modal-content
+{
+  margin-top: 100px;
+}
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+#firstpic{
+    width: 60%;
+   
+}
